@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725567162209",
+    "project_id": "semana-8-408cf",
+    "storage_bucket": "semana-8-408cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725567162209:android:b5db464e2150edbdbb2720",
+        "android_client_info": {
+          "package_name": "com.example.ejemplochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhklFkUsZTt2hYIOuy2oRWuN3a1vp9v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
